@@ -50,3 +50,9 @@ Puedes encontrarme en estas plataformas. ¡No dudes en contactarme!
 
 Soy fan de la música (especialmente de Joji) y un buen café siempre es bienvenido.
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Estudiante+de+Sistemas;Apasionado+por+el+Backend;Administrador+de+Servidores+Linux;Amante+del+Café+%E2%98%95" alt="Typing SVG" />
+  </a>
+</p>
+
