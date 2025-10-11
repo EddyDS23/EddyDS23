@@ -6,7 +6,7 @@
 
 Soy un estudiante en **Ingeniería en Sistemas Computacionales**, con un fuerte interés en todo lo relacionado con el backend: servidores, bases de datos y la administración de sistemas Linux. Me considero una persona práctica, que destaca en lo que le apasiona.
 
-[![Estadísticas de GitHub de EddyDS23](https://github-readme-stats.vercel.app/api?username=EddyDS23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+#[![Estadísticas de GitHub de EddyDS23](https://github-readme-stats.vercel.app/api?username=EddyDS23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddyDS23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
