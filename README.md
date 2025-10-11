@@ -4,7 +4,7 @@
 <a href="https://x.com/Wacho_Html" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:carrilloedgar408@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-Soy un estudiante de **Ingeniería en Sistemas Computacionales** de Villahermosa, Tabasco, con un fuerte interés en todo lo relacionado con el backend: servidores, bases de datos y la administración de sistemas Linux. Me considero una persona práctica, que destaca en lo que le apasiona.
+Soy un estudiante en **Ingeniería en Sistemas Computacionales**, con un fuerte interés en todo lo relacionado con el backend: servidores, bases de datos y la administración de sistemas Linux. Me considero una persona práctica, que destaca en lo que le apasiona.
 
 ---
 
