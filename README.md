@@ -50,4 +50,3 @@ Puedes encontrarme en estas plataformas. ¡No dudes en contactarme!
 
 Soy fan de la música (especialmente de Joji) y un buen café siempre es bienvenido.
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=EddyDS23&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
